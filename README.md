@@ -42,10 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
