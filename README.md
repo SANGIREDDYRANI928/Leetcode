@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0042-trapping-rain-water) |
 ## Stack
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0242-valid-anagram) |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0191-number-of-1-bits) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
