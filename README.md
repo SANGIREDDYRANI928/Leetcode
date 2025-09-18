@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0342-power-of-four) |
 ## Number Theory
 |  |
 | ------- |
