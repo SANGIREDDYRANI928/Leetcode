@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0338-counting-bits) |
 ## Stack
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0338-counting-bits) |
 ## Simulation
 |  |
 | ------- |
