@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0344-reverse-string](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0344-reverse-string) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Dynamic Programming
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0344-reverse-string) |
 ## Math
 |  |
 | ------- |
