@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0575-distribute-candies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Two Pointers
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0507-perfect-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Prefix Sum
 |  |
