@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0409-longest-palindrome) |
+| [0460-lfu-cache](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0460-lfu-cache) |
 | [0500-keyboard-row](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0645-set-mismatch) |
@@ -203,4 +204,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0460-lfu-cache](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0460-lfu-cache) |
+## Design
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0460-lfu-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
