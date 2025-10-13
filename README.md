@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0392-is-subsequence) |
+| [1086-divisor-game](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1086-divisor-game) |
 ## Stack
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1086-divisor-game](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1086-divisor-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -194,10 +196,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1086-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1086-divisor-game) |
 ## Queue
 |  |
 | ------- |
