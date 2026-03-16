@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0739-daily-temperatures) |
 | [1004-max-consecutive-ones-iii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1470-shuffle-the-array](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Two Pointers
 |  |
