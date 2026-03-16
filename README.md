@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0217-contains-duplicate) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0392-is-subsequence) |
 | [1086-divisor-game](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1086-divisor-game) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0409-longest-palindrome) |
 ## Sliding Window
 |  |
