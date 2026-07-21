@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0754-reach-a-number](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0754-reach-a-number) |
 | [1086-divisor-game](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1086-divisor-game) |
 ## Bit Manipulation
 |  |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0754-reach-a-number](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0754-reach-a-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2540-minimum-common-value](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
