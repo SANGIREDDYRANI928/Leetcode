@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0754-reach-a-number](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0754-reach-a-number) |
 | [1086-divisor-game](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1086-divisor-game) |
+| [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0409-longest-palindrome) |
 | [0881-boats-to-save-people](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0881-boats-to-save-people) |
+| [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [3457-eat-pizzas](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3457-eat-pizzas) |
 ## Sliding Window
 |  |
