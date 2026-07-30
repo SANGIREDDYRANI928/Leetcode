@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2540-minimum-common-value](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2540-minimum-common-value) |
+| [3467-transform-array-by-parity](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1331-rank-transform-of-an-array](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [3467-transform-array-by-parity](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [3467-transform-array-by-parity](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Interactive
 |  |
 | ------- |
