@@ -1,0 +1,19 @@
+class Solution:
+    def predictTheWinner(self, nums):
+        n = len(nums)
+        dp = [[-1] * n for _ in range(n)]
+
+        def solve(i, j):
+            if i == j:
+                return nums[i]
+
+            if dp[i][j] != -1:
+                return dp[i][j]
+
+            take_left = nums[i] - solve(i + 1, j)
+            take_right = nums[j] - solve(i, j - 1)
+
+            dp[i][j] = max(take_left, take_right)
+            return dp[i][j]
+
+        return solve(0, n - 1) >= 0
