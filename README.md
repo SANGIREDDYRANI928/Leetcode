@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0486-predict-the-winner) |
 | [1086-divisor-game](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1086-divisor-game) |
 ## Stack
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0441-arranging-coins) |
+| [0486-predict-the-winner](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0486-predict-the-winner) |
 | [0504-base-7](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0486-predict-the-winner) |
 ## Number Theory
 |  |
 | ------- |
@@ -256,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0486-predict-the-winner) |
 | [1086-divisor-game](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1086-divisor-game) |
 ## Queue
 |  |
