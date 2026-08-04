@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2540-minimum-common-value) |
 | [3457-eat-pizzas](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3457-eat-pizzas) |
 | [3467-transform-array-by-parity](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3467-transform-array-by-parity) |
+| [3731-find-missing-elements](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2540-minimum-common-value) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3457-eat-pizzas](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3457-eat-pizzas) |
 | [3467-transform-array-by-parity](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3467-transform-array-by-parity) |
+| [3731-find-missing-elements](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
 | ------- |
