@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1086-divisor-game](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1086-divisor-game) |
 | [1406-stone-game-iii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1406-stone-game-iii) |
+| [2457-minimum-addition-to-make-integer-beautiful](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Bit Manipulation
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0409-longest-palindrome) |
 | [0881-boats-to-save-people](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0881-boats-to-save-people) |
 | [2233-maximum-product-after-k-increments](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2233-maximum-product-after-k-increments) |
+| [2457-minimum-addition-to-make-integer-beautiful](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3457-eat-pizzas](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3457-eat-pizzas) |
