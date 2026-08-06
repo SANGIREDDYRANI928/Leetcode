@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0504-base-7) |
 | [0742-to-lower-case](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0742-to-lower-case) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2418-sort-the-people](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2418-sort-the-people) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0754-reach-a-number](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0754-reach-a-number) |
 | [0877-stone-game](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0877-stone-game) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1086-divisor-game](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1086-divisor-game) |
 | [1406-stone-game-iii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1406-stone-game-iii) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
@@ -364,4 +366,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3310-remove-methods-from-project) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
