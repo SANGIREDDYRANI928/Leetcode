@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0742-to-lower-case) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2418-sort-the-people](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2418-sort-the-people) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3467-transform-array-by-parity](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Interactive
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0409-longest-palindrome) |
 | [0881-boats-to-save-people](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0881-boats-to-save-people) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [2233-maximum-product-after-k-increments](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2233-maximum-product-after-k-increments) |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
