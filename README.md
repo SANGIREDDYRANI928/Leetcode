@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0994-rotting-oranges](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1200-minimum-absolute-difference](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0207-course-schedule) |
+| [0994-rotting-oranges](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0994-rotting-oranges) |
 | [3310-remove-methods-from-project](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## String Matching
 |  |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0994-rotting-oranges) |
 ## Topological Sort
 |  |
 | ------- |
