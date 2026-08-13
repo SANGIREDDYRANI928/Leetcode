@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0200-number-of-islands) |
 | [3310-remove-methods-from-project](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0200-number-of-islands) |
 | [3310-remove-methods-from-project](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## String Matching
 |  |
@@ -416,4 +419,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
