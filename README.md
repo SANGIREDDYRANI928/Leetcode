@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0217-contains-duplicate) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0328-odd-even-linked-list) |
@@ -339,12 +341,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0460-lfu-cache](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0460-lfu-cache) |
 ## Tree
 |  |
