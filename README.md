@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2266-count-number-of-texts](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2266-count-number-of-texts) |
 | [2418-sort-the-people](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2418-sort-the-people) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Math
 |  |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2540-minimum-common-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Linked List
 |  |
 | ------- |
