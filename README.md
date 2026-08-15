@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0322-coin-change](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0322-coin-change](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0486-predict-the-winner) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0207-course-schedule) |
+| [0322-coin-change](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0322-coin-change) |
 | [0994-rotting-oranges](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0994-rotting-oranges) |
 | [3310-remove-methods-from-project](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## String Matching
@@ -464,4 +467,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
