@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0790-domino-and-tromino-tiling](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0790-domino-and-tromino-tiling) |
 | [0877-stone-game](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0877-stone-game) |
 | [1086-divisor-game](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1086-divisor-game) |
+| [1143-longest-common-subsequence](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1406-stone-game-iii) |
 | [2266-count-number-of-texts](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2266-count-number-of-texts) |
 ## Stack
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1143-longest-common-subsequence](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1768-merge-strings-alternately](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -475,4 +477,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0322-coin-change) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
