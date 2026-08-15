@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0525-contiguous-array](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0500-keyboard-row) |
+| [0525-contiguous-array](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0525-contiguous-array) |
 | [0575-distribute-candies](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0645-set-mismatch) |
 | [0767-reorganize-string](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0767-reorganize-string) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0525-contiguous-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Union Find
 |  |
