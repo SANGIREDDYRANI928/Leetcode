@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2540-minimum-common-value](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2540-minimum-common-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3457-eat-pizzas](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3457-eat-pizzas) |
 | [3467-transform-array-by-parity](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3731-find-missing-elements) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0735-asteroid-collision) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
 | ------- |
