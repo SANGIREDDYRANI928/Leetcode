@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1768-merge-strings-alternately](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1927-sum-game](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1927-sum-game) |
 | [2266-count-number-of-texts](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2266-count-number-of-texts) |
 | [2418-sort-the-people](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2418-sort-the-people) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1086-divisor-game](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1086-divisor-game) |
 | [1406-stone-game-iii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1406-stone-game-iii) |
+| [1927-sum-game](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1927-sum-game) |
 | [2266-count-number-of-texts](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2266-count-number-of-texts) |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0877-stone-game) |
 | [1086-divisor-game](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1086-divisor-game) |
 | [1406-stone-game-iii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1406-stone-game-iii) |
+| [1927-sum-game](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1927-sum-game) |
 ## Queue
 |  |
 | ------- |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
+| [1927-sum-game](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1927-sum-game) |
 | [2233-maximum-product-after-k-increments](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2233-maximum-product-after-k-increments) |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
