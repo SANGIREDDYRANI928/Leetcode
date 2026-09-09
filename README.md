@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0790-domino-and-tromino-tiling](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0790-domino-and-tromino-tiling) |
 | [0877-stone-game](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0877-stone-game) |
 | [1086-divisor-game](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1086-divisor-game) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0504-base-7) |
+| [0678-valid-parenthesis-string](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0742-to-lower-case](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0742-to-lower-case) |
 | [0767-reorganize-string](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0409-longest-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -545,4 +549,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
