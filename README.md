@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0322-coin-change) |
+| [0414-third-maximum-number](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0645-set-mismatch) |
 | [0767-reorganize-string](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0767-reorganize-string) |
