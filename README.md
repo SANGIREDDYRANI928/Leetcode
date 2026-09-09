@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0127-word-ladder](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0127-word-ladder) |
 | [0168-excel-sheet-column-title](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0242-valid-anagram) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0146-lru-cache) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0322-coin-change) |
@@ -553,4 +556,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0678-valid-parenthesis-string) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
