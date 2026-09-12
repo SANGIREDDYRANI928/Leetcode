@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0078-subsets) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Counting
