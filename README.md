@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2540-minimum-common-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3457-eat-pizzas](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3457-eat-pizzas) |
 | [3467-transform-array-by-parity](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1406-stone-game-iii) |
 | [2266-count-number-of-texts](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2266-count-number-of-texts) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Stack
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [2418-sort-the-people](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2418-sort-the-people) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3457-eat-pizzas](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3457-eat-pizzas) |
 | [3467-transform-array-by-parity](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3731-find-missing-elements) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0754-reach-a-number](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0754-reach-a-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2540-minimum-common-value](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2540-minimum-common-value) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
