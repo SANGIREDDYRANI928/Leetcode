@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0754-reach-a-number](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0754-reach-a-number) |
+| [0836-rectangle-overlap](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1086-divisor-game](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1086-divisor-game) |
@@ -600,4 +601,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
