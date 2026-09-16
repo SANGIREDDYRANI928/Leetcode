@@ -470,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0733-flood-fill](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0743-network-delay-time) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3310-remove-methods-from-project) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0743-network-delay-time) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0994-rotting-oranges) |
 | [3310-remove-methods-from-project](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3310-remove-methods-from-project) |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0743-network-delay-time) |
 | [3310-remove-methods-from-project](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Euclidean Algorithm
 |  |
@@ -542,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0767-reorganize-string) |
 | [2233-maximum-product-after-k-increments](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2233-maximum-product-after-k-increments) |
 ## Monotonic Queue
@@ -622,4 +626,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
