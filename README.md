@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0994-rotting-oranges](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1406-stone-game-iii) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0767-reorganize-string) |
+| [1046-last-stone-weight](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1046-last-stone-weight) |
 | [2233-maximum-product-after-k-increments](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2233-maximum-product-after-k-increments) |
 ## Monotonic Queue
 |  |
