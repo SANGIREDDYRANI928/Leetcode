@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1086-divisor-game](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1086-divisor-game) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1406-stone-game-iii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1927-sum-game) |
@@ -645,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Combinatorics
 |  |
 | ------- |
