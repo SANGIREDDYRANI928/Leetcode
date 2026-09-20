@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0127-word-ladder) |
 | [0168-excel-sheet-column-title](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0079-word-search) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Counting
 |  |
@@ -480,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -582,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0733-flood-fill) |
