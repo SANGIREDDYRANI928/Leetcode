@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0392-is-subsequence) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0389-find-the-difference](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0414-third-maximum-number) |
 | [0621-task-scheduler](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0621-task-scheduler) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0460-lfu-cache](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Doubly-Linked List
@@ -572,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0295-find-median-from-data-stream](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0621-task-scheduler](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0743-network-delay-time) |
@@ -650,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Geometry
 |  |
