@@ -1,15 +1,9 @@
 class Solution:
     def hIndex(self, citations):
         n = len(citations)
-
-        for h in range(n, -1, -1):
-            count = 0
-
-            for c in citations:
-                if c >= h:
-                    count += 1
-
-            if count >= h:
-                return h
-
+        citations.sort()
+        for i in range(n):
+            papers=n-i
+            if citations[i]>=papers:
+                return papers
         return 0
