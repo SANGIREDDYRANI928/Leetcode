@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0322-coin-change](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0322-coin-change) |
+| [0380-insert-delete-getrandom-o1](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0486-predict-the-winner) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0342-power-of-four) |
+| [0380-insert-delete-getrandom-o1](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0441-arranging-coins](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0486-predict-the-winner) |
 | [0504-base-7](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0504-base-7) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0242-valid-anagram) |
+| [0380-insert-delete-getrandom-o1](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0389-find-the-difference) |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0380-insert-delete-getrandom-o1](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Doubly-Linked List
@@ -682,4 +686,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
