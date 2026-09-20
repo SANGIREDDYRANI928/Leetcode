@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0046-permutations) |
+| [0054-spiral-matrix](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0078-subsets) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0735-asteroid-collision) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
