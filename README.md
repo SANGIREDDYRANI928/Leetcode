@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0066-plus-one) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0045-jump-game-ii) |
 | [0072-edit-distance](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0118-pascals-triangle) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0409-longest-palindrome) |
