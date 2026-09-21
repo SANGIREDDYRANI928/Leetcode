@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0115-distinct-subsequences) |
