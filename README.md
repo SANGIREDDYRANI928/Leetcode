@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2540-minimum-common-value](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2540-minimum-common-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3457-eat-pizzas](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3457-eat-pizzas) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [2418-sort-the-people](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2418-sort-the-people) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3457-eat-pizzas](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3457-eat-pizzas) |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/1291-sequential-digits) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Graph Theory
