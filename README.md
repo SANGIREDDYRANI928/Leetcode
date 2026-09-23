@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2418-sort-the-people) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2540-minimum-common-value](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2540-minimum-common-value) |
+| [2643-row-with-maximum-ones](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -636,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/0994-rotting-oranges) |
+| [2643-row-with-maximum-ones](https://github.com/SANGIREDDYRANI928/Leetcode/tree/master/2643-row-with-maximum-ones) |
 ## Topological Sort
 |  |
 | ------- |
